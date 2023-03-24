@@ -1,4 +1,4 @@
-# Practica 4
+# Practica 4: GIT (Por parejas)
 ___
 - Creando copia practica 3, nueva rama "master", tag y subiendolo todo:
 ___
